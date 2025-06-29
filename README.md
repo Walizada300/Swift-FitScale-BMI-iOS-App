@@ -23,7 +23,7 @@
 1️⃣ مخزن را کلون کنید:
 
 ```bash
-git clone https://github.com/your-username/FitScale.git
+git clone https://github.com/Walizada300/Swift-FitScale-BMI-iOS-App.git
 ```
 
 2️⃣ پروژه را با Xcode 15 یا بالاتر باز کنید:
